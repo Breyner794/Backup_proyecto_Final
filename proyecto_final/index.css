@@ -1,0 +1,53 @@
+.container-fluid img{
+    height: 150px;
+    width: 150px;
+}
+.container-fluid{
+    text-align: center;
+    align-content: center;
+}
+.marca{
+    font-size: 30px;
+    text-decoration: none;
+    color: rgba(37, 36, 36, 0.671);
+    
+}
+.img-fluid{
+    align-content: center;
+    text-align: center;
+}
+.nav-item{
+    color: rgba(80, 231, 35, 0.66);
+}
+.navbar{
+    display: flex;
+    background-image: url('8bit.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:unset;
+    
+}
+.categorias{
+    padding: 30px;
+    align-content: center;
+    text-align: center;
+}
+.card{
+    position: relative;
+    float: left;
+    width: 40rem;
+    margin: 20px;
+    padding: 30px;
+}
+.card img{
+    height: 500px;
+    border-radius: 100px;
+}
+.card-text{
+    font-size: 30px;
+}
+.eslogan{
+    height: -90px;
+}
+
